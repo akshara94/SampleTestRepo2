@@ -1,1 +1,3 @@
 Sampletext1
+Addition of the file 
+Newly added
